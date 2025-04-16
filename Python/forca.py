@@ -4,6 +4,7 @@ lista_palavras = [
     'laranja',
     'uva',
     'banana'
+    'limao'
 ]
 
 palavra = random.choice(lista_palavras)
