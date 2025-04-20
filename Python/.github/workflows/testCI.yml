@@ -1,6 +1,8 @@
 name: Continuos teste
 on:
   pull_request:
+    branches:
+      - main
 
 jobs:
   build:
